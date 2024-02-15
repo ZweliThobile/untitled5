@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run untitled5:serve:development",
+    "startTime": "2024-02-15T06:37:06.825Z",
+    "endTime": "2024-02-15T06:37:07.489Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "untitled5:serve:development",
+      "target": "serve",
+      "projectName": "untitled5",
+      "hash": "982824802927221594",
+      "startTime": "2024-02-15T06:37:06.831Z",
+      "endTime": "2024-02-15T06:37:07.489Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}
